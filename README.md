@@ -8,8 +8,8 @@ The main goal of this project was to understand real-world cloud deployment, con
 ---
 
 ## 🌐 Live Project
-🔗 CloudFront URL: https://your-cloudfront-link-here  
-🔗 S3 Bucket Website URL: https://your-s3-bucket-url-here  
+🔗 CloudFront URL: https://d28q1emyk5ygal.cloudfront.net/
+🔗 S3 Bucket Website URL: http://talal-website-bucket.s3-website-us-east-1.amazonaws.com/  
 
 ---
 
