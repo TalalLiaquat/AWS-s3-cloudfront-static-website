@@ -57,9 +57,10 @@ User → CloudFront (CDN) → S3 Bucket → Static Website Files (HTML/CSS)
 ## 📸 Screenshots
 (Add your screenshots here)
 
-- Homepage Screenshot  
-- S3 Bucket Configuration  
-- CloudFront Distribution Setup  
+- Homepage Screenshot  ![Homepage](ScreenShot/SS_1.png)
+- S3 Bucket Configuration  ![S3 Bucket](ScreenShot/SS_2.png)
+- CloudFront Distribution Setup  ![CloudFront](ScreenShot/SS_3.png)
+- AWS  ![AWS](ScreenShot/SS_4.png)
 
 ---
 
