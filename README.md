@@ -55,12 +55,11 @@ User → CloudFront (CDN) → S3 Bucket → Static Website Files (HTML/CSS)
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here)
 
 - Homepage Screenshot  ![Homepage](ScreenShot/SS_1.png)
 - S3 Bucket Configuration  ![S3 Bucket](ScreenShot/SS_2.png)
-- CloudFront Distribution Setup  ![CloudFront](ScreenShot/SS_3.png)
-- AWS  ![AWS](ScreenShot/SS_4.png)
+- CloudFront Distribution Setup  ![CloudFront](ScreenShot/SS_4.png)
+- Website Screenshot  ![Website SS](ScreenShot/SS_3.png)
 
 ---
 
@@ -73,12 +72,11 @@ User → CloudFront (CDN) → S3 Bucket → Static Website Files (HTML/CSS)
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-Computer Science Student | Aspiring DevOps Engineer  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+**M. Talal Liqaut**  
+GitHub: https://github.com/TalalLiaquat 
+LinkedIn: https://www.linkedin.com/in/talal-liaquat/  
 
 ---
 
 ## ⭐ Acknowledgement
-Special thanks to my instructor/mentor for guidance in learning AWS cloud fundamentals and practical deployment.
+Special thanks to my Sir Muzammil Bilwani for guidance in learning AWS cloud fundamentals and practical deployment.
